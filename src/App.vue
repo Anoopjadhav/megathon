@@ -2,9 +2,11 @@
   <div id="app">
     <img src="./assets/logo.png">
     {{ message }}
+
     <!--<router-view/>-->
     <!--<header></header>-->
   </div>
+  
 </template>
 
 <script>
